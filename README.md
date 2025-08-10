@@ -44,10 +44,10 @@ It is optimized for **large datasets** using **multiprocessing** and **chunk-bas
 
 | Success vs Needs Payment | Success % | Other Visuals |
 |--------------------------|-----------|---------------|
-| ![Bar Chart](Powerbi/screenshots/visual1.png) | ![Bar Chart](Powerbi/screenshots/visual2.png) | ![Pie Chart](Powerbi/screenshots/visual3.png) |
+| ![Bar Chart](Powerbi/screenshots/Visual1.png) | ![Bar Chart](Powerbi/screenshots/Visual2.png) | ![Pie Chart](Powerbi/screenshots/Visual3.png) |
 
 **Additional Insight**  
-![Table](Powerbi/screenshots/visual4.png)
+![Table](Powerbi/screenshots/Visual4.png)
 
 ---
 
